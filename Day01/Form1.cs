@@ -17,7 +17,7 @@ namespace Day01
             InitializeComponent();
 
             // MessageBox.Show("안녕하세요우~");
-            //  ㅁㄴ어마
+            //  2번째
             // 텍스트 박스에 메시지 출력
             textBox_print.Text = "이것은 \r\n 멀티라인 \r\n 텍스트박스 \r\n 입니다!! ";
         }
